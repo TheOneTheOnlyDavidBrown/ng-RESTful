@@ -23,7 +23,7 @@
       url: 'http://192.168.1.200:9000/example/ExampleMicroblog.routes.php/posts.json',
       type:"POST",
       data:{
-        tweet:'posting a tweet from ajax',
+        tweet:'posting a message from ajax',
         date:'1:50a',
         user:'someusername'
       },
